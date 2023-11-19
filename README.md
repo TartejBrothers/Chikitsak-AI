@@ -24,7 +24,7 @@
 </ul><h2>Screenshots</h2>
 <hr><p><img src="readme/1.jpg" alt=""></p><p><img src="readme/2.jpg" alt=""></p><h2>Setup</h2>
 <hr><p>Required Installation: Check the requirements.txt</p><h5>Steps</h5><ul>
-<li>To download <code>git clone https://github.com/TartejBrothers/ChikitsakAI</code></li>
+<li>To download <code>git clone https://github.com/TartejBrothers/ChikitsakAI.git</code></li>
 </ul><ul>
 <li>To run <code>cd ChikitsakAi django manage.py runserver</code></li>
 </ul><h2>Project Status</h2>
