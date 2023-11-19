@@ -26,7 +26,8 @@
 <hr><p>Required Installation: Check the requirements.txt</p><h5>Steps</h5><ul>
 <li>To download <code>git clone https://github.com/TartejBrothers/ChikitsakAI.git</code></li>
 </ul><ul>
-<li>To run <code>cd ChikitsakAi django manage.py runserver</code></li>
+<li>To run <code>cd ChikitsakAi</code>
+<code>django manage.py runserver</code></li>
 </ul><h2>Project Status</h2>
 <hr><p>It is completed and hosted at https://chikitsakai.vercel.app/</p><h2>Improvements</h2>
 <hr><ul>
