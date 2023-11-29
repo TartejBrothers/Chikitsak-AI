@@ -1,4 +1,4 @@
-<h1>Chikitsak Ai</h1>
+<h1>Chikitsak AI</h1>
 <hr><p>We can use this website to find the proper medicine and the conditions for the specified medical problem.</p><h2>General Information</h2>
 <hr><ul>
 <li>This has a dataset of values, from which the user can find and enter the specific problem and get the best medicine and the about the medical conditions from that.</li>
